@@ -11,6 +11,9 @@ pip install deriv-calculus
 
 ```
 
+![image](https://github.com/CharlieCidral/deriv-pypck/assets/69029099/ceb30892-7e1d-4628-9da1-76a6d2d7428b)
+
+
 # Uso
 
 Depois de instalar o pacote, você pode importar as funções de cálculo de derivadas em seus scripts. Aqui está um exemplo:
