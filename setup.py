@@ -17,5 +17,5 @@ setup(
     author='Charlie C.',
     author_email='charliesamoel@gmail.com',
     description='Esse pacote serve para calculo de derivadas',
-    url='https://github.com/CharlieCidral/deriv_calculus',
+    url='https://github.com/CharlieCidral/deriv-pypck',
 )
