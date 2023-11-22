@@ -10,7 +10,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'calc_deriv=deriv_calc.script:calc_deriv',
+            'calc_deriv=script:calc_deriv',
         ],
     },
     # Metadados
